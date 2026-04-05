@@ -61,36 +61,6 @@ prompt-engineering-annotation-pipeline/
 
 ---
 
-## ⚙️ Setup & Usage
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/prompt-engineering-annotation-pipeline.git
-cd prompt-engineering-annotation-pipeline
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run prompt tester
-```bash
-python scripts/prompt_tester.py
-```
-
-### 4. Evaluate prompts
-```bash
-python scripts/evaluate_prompts.py
-```
-
-### 5. Validate annotations
-```bash
-python scripts/annotation_validator.py
-```
-
----
-
 ## 📈 Key Results
 
 - Designed and tested **50+ structured prompts** across 3 techniques
@@ -112,7 +82,7 @@ python scripts/annotation_validator.py
 
 **Gandla Vyshnavi**  
 Data Science | GEN AI | Prompt Engineering  
-📧 gvyshnavi611@gmail.com | [LinkedIn](#) | [Portfolio](#)
+📧 gvyshnavi611@gmail.com | [LinkedIn](www.linkedin.com/in/gandla-vyshnavi) | [Portfolio](https://portfolio-lyart-five-39.vercel.app/)
 
 ---
 
