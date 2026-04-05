@@ -1,0 +1,47 @@
+[
+  {
+    "id": "FS-001",
+    "task": "sentiment_classification",
+    "technique": "few-shot",
+    "prompt": "Classify the sentiment of the text as Positive, Negative, or Neutral.\n\nExamples:\nText: \"The product quality is amazing and delivery was fast!\"\nSentiment: Positive\n\nText: \"Terrible experience. The item broke after one day.\"\nSentiment: Negative\n\nText: \"The package arrived on the expected date.\"\nSentiment: Neutral\n\nNow classify:\nText: \"{input_text}\"\nSentiment:",
+    "num_examples": 3,
+    "expected_output_format": "Positive | Negative | Neutral",
+    "notes": "3-shot example improves accuracy over zero-shot by ~15% on e-commerce reviews."
+  },
+  {
+    "id": "FS-002",
+    "task": "intent_detection",
+    "technique": "few-shot",
+    "prompt": "Identify the user's intent from the message.\n\nExamples:\nMessage: \"My order hasn't arrived yet, it's been 10 days!\"\nIntent: Complaint\n\nMessage: \"Can you tell me the return policy?\"\nIntent: Inquiry\n\nMessage: \"I'd like to cancel my subscription.\"\nIntent: Request\n\nMessage: \"Great service, very happy with my purchase!\"\nIntent: Feedback\n\nNow classify:\nMessage: \"{input_text}\"\nIntent:",
+    "num_examples": 4,
+    "expected_output_format": "Complaint | Inquiry | Request | Feedback | Greeting",
+    "notes": "4-shot works well for customer support automation pipelines."
+  },
+  {
+    "id": "FS-003",
+    "task": "named_entity_recognition",
+    "technique": "few-shot",
+    "prompt": "Extract named entities (Person, Organization, Location) from the text.\n\nExamples:\nText: \"Sundar Pichai leads Google which is headquartered in California.\"\nEntities: Person: Sundar Pichai | Organization: Google | Location: California\n\nText: \"Elon Musk founded SpaceX in Hawthorne.\"\nEntities: Person: Elon Musk | Organization: SpaceX | Location: Hawthorne\n\nNow extract:\nText: \"{input_text}\"\nEntities:",
+    "num_examples": 2,
+    "expected_output_format": "Person: X | Organization: Y | Location: Z",
+    "notes": "Good baseline for NER without fine-tuning."
+  },
+  {
+    "id": "FS-004",
+    "task": "question_answering",
+    "technique": "few-shot",
+    "prompt": "Answer the question based only on the given context.\n\nExample 1:\nContext: \"Python is a high-level programming language known for its simple syntax.\"\nQuestion: \"What is Python known for?\"\nAnswer: Simple syntax\n\nExample 2:\nContext: \"The Eiffel Tower is located in Paris, France and was built in 1889.\"\nQuestion: \"When was the Eiffel Tower built?\"\nAnswer: 1889\n\nNow answer:\nContext: \"{context}\"\nQuestion: \"{question}\"\nAnswer:",
+    "num_examples": 2,
+    "expected_output_format": "Short factual answer",
+    "notes": "Constrained QA — model answers from context only, reducing hallucination."
+  },
+  {
+    "id": "FS-005",
+    "task": "text_classification_multilabel",
+    "technique": "few-shot",
+    "prompt": "Label the following text with all applicable tags from: [Spam, Urgent, Promotional, Informational, Personal].\n\nExamples:\nText: \"CONGRATULATIONS! You've won a free iPhone. Click here now!\"\nLabels: Spam, Promotional\n\nText: \"Meeting rescheduled to 3 PM today. Please confirm attendance.\"\nLabels: Urgent, Informational\n\nText: \"Hey, are you coming to the party this weekend?\"\nLabels: Personal\n\nNow label:\nText: \"{input_text}\"\nLabels:",
+    "num_examples": 3,
+    "expected_output_format": "Comma-separated labels",
+    "notes": "Multi-label classification with few-shot examples."
+  }
+]

@@ -1,0 +1,201 @@
+id,text,sentiment,intent,topic,annotation_status
+TXT-0001,Package was sealed properly. Contents were as listed.,Neutral,Complaint,Health,unlabeled
+TXT-0002,Amazing quality for the price. Highly recommend to everyone. Loved it!,Positive,Complaint,Entertainment,unlabeled
+TXT-0003,I am impressed with the performance. Worth every rupee. Would recommend.,Positive,Complaint,Technology,unlabeled
+TXT-0004,Amazing quality for the price. Highly recommend to everyone. Loved it!,Positive,Greeting,Entertainment,unlabeled
+TXT-0005,Superb build quality and very easy to set up. Loved it!,Positive,Greeting,Sports,unlabeled
+TXT-0006,Great value for money. The product is exactly as described.,Positive,Feedback,Technology,unlabeled
+TXT-0007,Received the item in perfect condition. Very satisfied. 5 stars.,Positive,Feedback,Finance,unlabeled
+TXT-0008,The app is intuitive and works perfectly without any bugs. Great!,Positive,Complaint,Sports,unlabeled
+TXT-0009,The app is intuitive and works perfectly without any bugs. 5 stars.,Positive,Greeting,Health,unlabeled
+TXT-0010,Great value for money. The product is exactly as described.,Positive,Complaint,Sports,unlabeled
+TXT-0011,Superb build quality and very easy to set up. 5 stars.,Positive,Greeting,Health,unlabeled
+TXT-0012,Standard product. Met the basic requirements.,Neutral,Complaint,Technology,unlabeled
+TXT-0013,Standard product. Met the basic requirements.,Neutral,Feedback,Technology,unlabeled
+TXT-0014,Fast delivery and excellent packaging. Will buy again. Would recommend.,Positive,Feedback,Sports,unlabeled
+TXT-0015,The item matches the product description provided.,Neutral,Inquiry,Health,unlabeled
+TXT-0016,Poor quality. The stitching came apart within a week. Avoid.,Negative,Complaint,Entertainment,unlabeled
+TXT-0017,"It does what it says. Nothing more, nothing less.",Neutral,Greeting,Finance,unlabeled
+TXT-0018,Great value for money. The product is exactly as described. Would recommend.,Positive,Feedback,Entertainment,unlabeled
+TXT-0019,The app is intuitive and works perfectly without any bugs. Great!,Positive,Inquiry,Technology,unlabeled
+TXT-0020,Extremely slow delivery. Took three weeks for a local order. Avoid.,Negative,Complaint,Finance,unlabeled
+TXT-0021,The item matches the product description provided.,Neutral,Inquiry,Sports,unlabeled
+TXT-0022,The description is misleading. Product is much smaller than shown. Zero stars.,Negative,Feedback,Finance,unlabeled
+TXT-0023,Superb build quality and very easy to set up.,Positive,Feedback,Entertainment,unlabeled
+TXT-0024,I regret buying this. Total disappointment.,Negative,Feedback,Finance,unlabeled
+TXT-0025,Superb build quality and very easy to set up. Would recommend.,Positive,Complaint,Technology,unlabeled
+TXT-0026,Customer service was incredibly helpful and resolved my issue quickly. Loved it!,Positive,Request,Entertainment,unlabeled
+TXT-0027,Received the item in perfect condition. Very satisfied. Would recommend.,Positive,Greeting,Sports,unlabeled
+TXT-0028,Order was processed and shipped on time.,Neutral,Greeting,Technology,unlabeled
+TXT-0029,Package was sealed properly. Contents were as listed.,Neutral,Greeting,Health,unlabeled
+TXT-0030,The item matches the product description provided.,Neutral,Complaint,Health,unlabeled
+TXT-0031,Customer support was rude and unhelpful. Never buying again.,Negative,Complaint,Health,unlabeled
+TXT-0032,"It does what it says. Nothing more, nothing less.",Neutral,Greeting,Technology,unlabeled
+TXT-0033,Order was processed and shipped on time.,Neutral,Greeting,Entertainment,unlabeled
+TXT-0034,Customer service was incredibly helpful and resolved my issue quickly. 5 stars.,Positive,Inquiry,Entertainment,unlabeled
+TXT-0035,The product arrived on the expected delivery date.,Neutral,Greeting,Health,unlabeled
+TXT-0036,Terrible product. Stopped working after just two days. Very bad.,Negative,Feedback,Health,unlabeled
+TXT-0037,The product exceeded my expectations. Absolutely love it! Loved it!,Positive,Greeting,Technology,unlabeled
+TXT-0038,Great value for money. The product is exactly as described. Great!,Positive,Greeting,Finance,unlabeled
+TXT-0039,Great value for money. The product is exactly as described.,Positive,Inquiry,Health,unlabeled
+TXT-0040,Nothing remarkable but no complaints either.,Neutral,Request,Finance,unlabeled
+TXT-0041,Standard product. Met the basic requirements.,Neutral,Feedback,Sports,unlabeled
+TXT-0042,The item matches the product description provided.,Neutral,Request,Entertainment,unlabeled
+TXT-0043,Very disappointed. The item looks nothing like the photos. Zero stars.,Negative,Inquiry,Technology,unlabeled
+TXT-0044,Terrible product. Stopped working after just two days. Zero stars.,Negative,Greeting,Finance,unlabeled
+TXT-0045,Fast delivery and excellent packaging. Will buy again. Great!,Positive,Inquiry,Technology,unlabeled
+TXT-0046,The app is intuitive and works perfectly without any bugs. Great!,Positive,Greeting,Finance,unlabeled
+TXT-0047,The description is misleading. Product is much smaller than shown. Zero stars.,Negative,Greeting,Finance,unlabeled
+TXT-0048,Nothing remarkable but no complaints either.,Neutral,Greeting,Sports,unlabeled
+TXT-0049,Great value for money. The product is exactly as described. Would recommend.,Positive,Inquiry,Technology,unlabeled
+TXT-0050,Received the item in perfect condition. Very satisfied. 5 stars.,Positive,Request,Sports,unlabeled
+TXT-0051,Terrible product. Stopped working after just two days. Very bad.,Negative,Complaint,Sports,unlabeled
+TXT-0052,The item matches the product description provided.,Neutral,Complaint,Finance,unlabeled
+TXT-0053,Amazing quality for the price. Highly recommend to everyone.,Positive,Request,Finance,unlabeled
+TXT-0054,Customer support was rude and unhelpful. Never buying again. Avoid.,Negative,Request,Finance,unlabeled
+TXT-0055,Great value for money. The product is exactly as described.,Positive,Complaint,Technology,unlabeled
+TXT-0056,The product is functional and serves its purpose.,Neutral,Complaint,Technology,unlabeled
+TXT-0057,Customer service was incredibly helpful and resolved my issue quickly. Would recommend.,Positive,Request,Sports,unlabeled
+TXT-0058,Received the item in perfect condition. Very satisfied. Great!,Positive,Inquiry,Sports,unlabeled
+TXT-0059,Received the item in perfect condition. Very satisfied. 5 stars.,Positive,Request,Health,unlabeled
+TXT-0060,Battery life is horrible. Barely lasts two hours.,Negative,Inquiry,Finance,unlabeled
+TXT-0061,Poor quality. The stitching came apart within a week. Very bad.,Negative,Greeting,Entertainment,unlabeled
+TXT-0062,The app is intuitive and works perfectly without any bugs. Great!,Positive,Complaint,Entertainment,unlabeled
+TXT-0063,Battery life is horrible. Barely lasts two hours. Zero stars.,Negative,Complaint,Entertainment,unlabeled
+TXT-0064,Customer service was incredibly helpful and resolved my issue quickly. Great!,Positive,Greeting,Technology,unlabeled
+TXT-0065,Standard product. Met the basic requirements.,Neutral,Request,Technology,unlabeled
+TXT-0066,Standard product. Met the basic requirements.,Neutral,Greeting,Entertainment,unlabeled
+TXT-0067,I am impressed with the performance. Worth every rupee. Great!,Positive,Request,Entertainment,unlabeled
+TXT-0068,The product is functional and serves its purpose.,Neutral,Feedback,Health,unlabeled
+TXT-0069,The app is intuitive and works perfectly without any bugs. Loved it!,Positive,Feedback,Sports,unlabeled
+TXT-0070,Best purchase I have made this year. Truly outstanding. Would recommend.,Positive,Feedback,Technology,unlabeled
+TXT-0071,Great value for money. The product is exactly as described.,Positive,Greeting,Technology,unlabeled
+TXT-0072,Superb build quality and very easy to set up. Loved it!,Positive,Greeting,Health,unlabeled
+TXT-0073,The app is intuitive and works perfectly without any bugs. Great!,Positive,Inquiry,Health,unlabeled
+TXT-0074,Customer support was rude and unhelpful. Never buying again.,Negative,Greeting,Health,unlabeled
+TXT-0075,The product is functional and serves its purpose.,Neutral,Complaint,Entertainment,unlabeled
+TXT-0076,Very disappointed. The item looks nothing like the photos. Zero stars.,Negative,Feedback,Technology,unlabeled
+TXT-0077,Superb build quality and very easy to set up. Loved it!,Positive,Feedback,Health,unlabeled
+TXT-0078,Standard product. Met the basic requirements.,Neutral,Feedback,Finance,unlabeled
+TXT-0079,Order was processed and shipped on time.,Neutral,Greeting,Sports,unlabeled
+TXT-0080,Terrible product. Stopped working after just two days. Very bad.,Negative,Request,Health,unlabeled
+TXT-0081,The product exceeded my expectations. Absolutely love it! 5 stars.,Positive,Inquiry,Health,unlabeled
+TXT-0082,Great value for money. The product is exactly as described.,Positive,Request,Entertainment,unlabeled
+TXT-0083,Fast delivery and excellent packaging. Will buy again. Great!,Positive,Inquiry,Entertainment,unlabeled
+TXT-0084,The app is intuitive and works perfectly without any bugs.,Positive,Greeting,Finance,unlabeled
+TXT-0085,Customer support was rude and unhelpful. Never buying again. Very bad.,Negative,Feedback,Health,unlabeled
+TXT-0086,The app is intuitive and works perfectly without any bugs. Loved it!,Positive,Inquiry,Technology,unlabeled
+TXT-0087,Battery life is horrible. Barely lasts two hours.,Negative,Greeting,Finance,unlabeled
+TXT-0088,Customer service was incredibly helpful and resolved my issue quickly. Loved it!,Positive,Request,Technology,unlabeled
+TXT-0089,The app is intuitive and works perfectly without any bugs. Would recommend.,Positive,Inquiry,Health,unlabeled
+TXT-0090,Fast delivery and excellent packaging. Will buy again. Would recommend.,Positive,Complaint,Sports,unlabeled
+TXT-0091,Amazing quality for the price. Highly recommend to everyone. Would recommend.,Positive,Feedback,Health,unlabeled
+TXT-0092,Amazing quality for the price. Highly recommend to everyone. Great!,Positive,Inquiry,Sports,unlabeled
+TXT-0093,Worst purchase ever. Complete waste of money. Very bad.,Negative,Feedback,Health,unlabeled
+TXT-0094,The product is functional and serves its purpose.,Neutral,Request,Entertainment,unlabeled
+TXT-0095,Terrible product. Stopped working after just two days. Very bad.,Negative,Feedback,Finance,unlabeled
+TXT-0096,Order was processed and shipped on time.,Neutral,Complaint,Technology,unlabeled
+TXT-0097,Average quality. Suitable for occasional use.,Neutral,Feedback,Health,unlabeled
+TXT-0098,I regret buying this. Total disappointment. Very bad.,Negative,Request,Entertainment,unlabeled
+TXT-0099,Best purchase I have made this year. Truly outstanding. Great!,Positive,Request,Technology,unlabeled
+TXT-0100,The product is functional and serves its purpose.,Neutral,Inquiry,Health,unlabeled
+TXT-0101,Very disappointed. The item looks nothing like the photos. Avoid.,Negative,Greeting,Health,unlabeled
+TXT-0102,Package was sealed properly. Contents were as listed.,Neutral,Feedback,Entertainment,unlabeled
+TXT-0103,Extremely slow delivery. Took three weeks for a local order. Avoid.,Negative,Request,Health,unlabeled
+TXT-0104,"It does what it says. Nothing more, nothing less.",Neutral,Inquiry,Sports,unlabeled
+TXT-0105,Average quality. Suitable for occasional use.,Neutral,Inquiry,Entertainment,unlabeled
+TXT-0106,Order was processed and shipped on time.,Neutral,Request,Entertainment,unlabeled
+TXT-0107,Best purchase I have made this year. Truly outstanding. 5 stars.,Positive,Inquiry,Sports,unlabeled
+TXT-0108,Nothing remarkable but no complaints either.,Neutral,Feedback,Sports,unlabeled
+TXT-0109,The description is misleading. Product is much smaller than shown. Zero stars.,Negative,Greeting,Sports,unlabeled
+TXT-0110,"It does what it says. Nothing more, nothing less.",Neutral,Complaint,Health,unlabeled
+TXT-0111,Nothing remarkable but no complaints either.,Neutral,Feedback,Technology,unlabeled
+TXT-0112,Best purchase I have made this year. Truly outstanding. Loved it!,Positive,Inquiry,Finance,unlabeled
+TXT-0113,The product exceeded my expectations. Absolutely love it! Loved it!,Positive,Request,Entertainment,unlabeled
+TXT-0114,Great value for money. The product is exactly as described. Would recommend.,Positive,Greeting,Finance,unlabeled
+TXT-0115,Average quality. Suitable for occasional use.,Neutral,Request,Sports,unlabeled
+TXT-0116,Customer service was incredibly helpful and resolved my issue quickly. Great!,Positive,Complaint,Sports,unlabeled
+TXT-0117,Customer service was incredibly helpful and resolved my issue quickly.,Positive,Request,Technology,unlabeled
+TXT-0118,Standard product. Met the basic requirements.,Neutral,Complaint,Sports,unlabeled
+TXT-0119,Great value for money. The product is exactly as described.,Positive,Greeting,Entertainment,unlabeled
+TXT-0120,The description is misleading. Product is much smaller than shown.,Negative,Greeting,Sports,unlabeled
+TXT-0121,Great value for money. The product is exactly as described. Would recommend.,Positive,Feedback,Finance,unlabeled
+TXT-0122,Order was processed and shipped on time.,Neutral,Greeting,Sports,unlabeled
+TXT-0123,Standard product. Met the basic requirements.,Neutral,Feedback,Sports,unlabeled
+TXT-0124,Best purchase I have made this year. Truly outstanding. Loved it!,Positive,Feedback,Health,unlabeled
+TXT-0125,Battery life is horrible. Barely lasts two hours. Very bad.,Negative,Inquiry,Finance,unlabeled
+TXT-0126,Received the item in perfect condition. Very satisfied. Loved it!,Positive,Inquiry,Technology,unlabeled
+TXT-0127,Extremely slow delivery. Took three weeks for a local order. Avoid.,Negative,Greeting,Sports,unlabeled
+TXT-0128,Terrible product. Stopped working after just two days. Zero stars.,Negative,Request,Sports,unlabeled
+TXT-0129,The product arrived on the expected delivery date.,Neutral,Greeting,Sports,unlabeled
+TXT-0130,Terrible product. Stopped working after just two days. Avoid.,Negative,Feedback,Sports,unlabeled
+TXT-0131,Battery life is horrible. Barely lasts two hours. Zero stars.,Negative,Request,Finance,unlabeled
+TXT-0132,Extremely slow delivery. Took three weeks for a local order.,Negative,Complaint,Sports,unlabeled
+TXT-0133,Extremely slow delivery. Took three weeks for a local order. Zero stars.,Negative,Request,Finance,unlabeled
+TXT-0134,The product is functional and serves its purpose.,Neutral,Complaint,Sports,unlabeled
+TXT-0135,Nothing remarkable but no complaints either.,Neutral,Complaint,Technology,unlabeled
+TXT-0136,Average quality. Suitable for occasional use.,Neutral,Inquiry,Sports,unlabeled
+TXT-0137,The product exceeded my expectations. Absolutely love it! 5 stars.,Positive,Request,Health,unlabeled
+TXT-0138,Great value for money. The product is exactly as described. 5 stars.,Positive,Feedback,Sports,unlabeled
+TXT-0139,Extremely slow delivery. Took three weeks for a local order. Avoid.,Negative,Complaint,Sports,unlabeled
+TXT-0140,Superb build quality and very easy to set up. Great!,Positive,Feedback,Finance,unlabeled
+TXT-0141,Package was sealed properly. Contents were as listed.,Neutral,Complaint,Technology,unlabeled
+TXT-0142,Amazing quality for the price. Highly recommend to everyone. Great!,Positive,Greeting,Finance,unlabeled
+TXT-0143,Customer service was incredibly helpful and resolved my issue quickly. Would recommend.,Positive,Complaint,Entertainment,unlabeled
+TXT-0144,Great value for money. The product is exactly as described. 5 stars.,Positive,Feedback,Finance,unlabeled
+TXT-0145,Nothing remarkable but no complaints either.,Neutral,Complaint,Finance,unlabeled
+TXT-0146,Very disappointed. The item looks nothing like the photos. Very bad.,Negative,Feedback,Entertainment,unlabeled
+TXT-0147,Average quality. Suitable for occasional use.,Neutral,Request,Finance,unlabeled
+TXT-0148,I am impressed with the performance. Worth every rupee. Loved it!,Positive,Complaint,Health,unlabeled
+TXT-0149,Nothing remarkable but no complaints either.,Neutral,Complaint,Entertainment,unlabeled
+TXT-0150,The app is intuitive and works perfectly without any bugs.,Positive,Request,Health,unlabeled
+TXT-0151,Superb build quality and very easy to set up. 5 stars.,Positive,Complaint,Sports,unlabeled
+TXT-0152,Very disappointed. The item looks nothing like the photos.,Negative,Feedback,Sports,unlabeled
+TXT-0153,"It does what it says. Nothing more, nothing less.",Neutral,Request,Finance,unlabeled
+TXT-0154,The product is functional and serves its purpose.,Neutral,Feedback,Entertainment,unlabeled
+TXT-0155,Delivery was on schedule. No issues with the order.,Neutral,Request,Sports,unlabeled
+TXT-0156,Nothing remarkable but no complaints either.,Neutral,Feedback,Health,unlabeled
+TXT-0157,Fast delivery and excellent packaging. Will buy again. 5 stars.,Positive,Request,Finance,unlabeled
+TXT-0158,I regret buying this. Total disappointment.,Negative,Feedback,Technology,unlabeled
+TXT-0159,The product arrived broken and the return process is a nightmare. Zero stars.,Negative,Request,Finance,unlabeled
+TXT-0160,Worst purchase ever. Complete waste of money. Avoid.,Negative,Feedback,Entertainment,unlabeled
+TXT-0161,Order was processed and shipped on time.,Neutral,Greeting,Technology,unlabeled
+TXT-0162,Standard product. Met the basic requirements.,Neutral,Complaint,Finance,unlabeled
+TXT-0163,Average quality. Suitable for occasional use.,Neutral,Request,Entertainment,unlabeled
+TXT-0164,Great value for money. The product is exactly as described. Would recommend.,Positive,Request,Technology,unlabeled
+TXT-0165,Best purchase I have made this year. Truly outstanding. Loved it!,Positive,Request,Finance,unlabeled
+TXT-0166,I regret buying this. Total disappointment. Avoid.,Negative,Request,Entertainment,unlabeled
+TXT-0167,The item matches the product description provided.,Neutral,Request,Entertainment,unlabeled
+TXT-0168,The product arrived broken and the return process is a nightmare.,Negative,Feedback,Health,unlabeled
+TXT-0169,Poor quality. The stitching came apart within a week. Very bad.,Negative,Inquiry,Health,unlabeled
+TXT-0170,Superb build quality and very easy to set up. Loved it!,Positive,Inquiry,Finance,unlabeled
+TXT-0171,Delivery was on schedule. No issues with the order.,Neutral,Feedback,Entertainment,unlabeled
+TXT-0172,Nothing remarkable but no complaints either.,Neutral,Feedback,Technology,unlabeled
+TXT-0173,Best purchase I have made this year. Truly outstanding. Loved it!,Positive,Feedback,Finance,unlabeled
+TXT-0174,Terrible product. Stopped working after just two days. Zero stars.,Negative,Feedback,Technology,unlabeled
+TXT-0175,Superb build quality and very easy to set up. 5 stars.,Positive,Inquiry,Sports,unlabeled
+TXT-0176,The product exceeded my expectations. Absolutely love it!,Positive,Feedback,Sports,unlabeled
+TXT-0177,The description is misleading. Product is much smaller than shown. Avoid.,Negative,Inquiry,Technology,unlabeled
+TXT-0178,The description is misleading. Product is much smaller than shown. Very bad.,Negative,Complaint,Sports,unlabeled
+TXT-0179,Very disappointed. The item looks nothing like the photos. Very bad.,Negative,Inquiry,Finance,unlabeled
+TXT-0180,Order was processed and shipped on time.,Neutral,Complaint,Finance,unlabeled
+TXT-0181,Superb build quality and very easy to set up. Would recommend.,Positive,Greeting,Entertainment,unlabeled
+TXT-0182,Standard product. Met the basic requirements.,Neutral,Greeting,Sports,unlabeled
+TXT-0183,The description is misleading. Product is much smaller than shown. Avoid.,Negative,Greeting,Sports,unlabeled
+TXT-0184,I regret buying this. Total disappointment. Very bad.,Negative,Greeting,Technology,unlabeled
+TXT-0185,Amazing quality for the price. Highly recommend to everyone. 5 stars.,Positive,Complaint,Finance,unlabeled
+TXT-0186,Customer service was incredibly helpful and resolved my issue quickly.,Positive,Complaint,Finance,unlabeled
+TXT-0187,Received the item in perfect condition. Very satisfied. Would recommend.,Positive,Greeting,Sports,unlabeled
+TXT-0188,Terrible product. Stopped working after just two days. Zero stars.,Negative,Feedback,Health,unlabeled
+TXT-0189,Delivery was on schedule. No issues with the order.,Neutral,Complaint,Finance,unlabeled
+TXT-0190,I regret buying this. Total disappointment. Zero stars.,Negative,Request,Technology,unlabeled
+TXT-0191,Standard product. Met the basic requirements.,Neutral,Inquiry,Health,unlabeled
+TXT-0192,Fast delivery and excellent packaging. Will buy again. Great!,Positive,Inquiry,Health,unlabeled
+TXT-0193,Nothing remarkable but no complaints either.,Neutral,Feedback,Sports,unlabeled
+TXT-0194,Great value for money. The product is exactly as described. 5 stars.,Positive,Request,Health,unlabeled
+TXT-0195,The product is functional and serves its purpose.,Neutral,Request,Sports,unlabeled
+TXT-0196,I am impressed with the performance. Worth every rupee. Great!,Positive,Request,Health,unlabeled
+TXT-0197,Order was processed and shipped on time.,Neutral,Complaint,Technology,unlabeled
+TXT-0198,I am impressed with the performance. Worth every rupee.,Positive,Complaint,Health,unlabeled
+TXT-0199,The product arrived on the expected delivery date.,Neutral,Inquiry,Sports,unlabeled
+TXT-0200,Delivery was on schedule. No issues with the order.,Neutral,Feedback,Finance,unlabeled

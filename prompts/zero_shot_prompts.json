@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ZS-001",
+    "task": "sentiment_classification",
+    "technique": "zero-shot",
+    "prompt": "Classify the sentiment of the following text as Positive, Negative, or Neutral. Only respond with one word.\n\nText: {input_text}\n\nSentiment:",
+    "expected_output_format": "Positive | Negative | Neutral",
+    "notes": "Simple and direct. Works well for short reviews and tweets."
+  },
+  {
+    "id": "ZS-002",
+    "task": "intent_detection",
+    "technique": "zero-shot",
+    "prompt": "Identify the intent of the following user message. Choose from: [Complaint, Inquiry, Feedback, Request, Greeting].\n\nMessage: {input_text}\n\nIntent:",
+    "expected_output_format": "Single intent label",
+    "notes": "Useful for customer support ticket routing."
+  },
+  {
+    "id": "ZS-003",
+    "task": "text_summarization",
+    "technique": "zero-shot",
+    "prompt": "Summarize the following paragraph in one concise sentence.\n\nParagraph: {input_text}\n\nSummary:",
+    "expected_output_format": "One sentence summary",
+    "notes": "Best for news articles and product descriptions."
+  },
+  {
+    "id": "ZS-004",
+    "task": "topic_classification",
+    "technique": "zero-shot",
+    "prompt": "Classify the topic of the following text into one of these categories: Technology, Finance, Health, Sports, Politics, Entertainment.\n\nText: {input_text}\n\nTopic:",
+    "expected_output_format": "Single topic label",
+    "notes": "Broad topic detection for content filtering."
+  },
+  {
+    "id": "ZS-005",
+    "task": "language_detection",
+    "technique": "zero-shot",
+    "prompt": "Detect the language of the following text. Respond with only the language name.\n\nText: {input_text}\n\nLanguage:",
+    "expected_output_format": "Language name (e.g., English, Hindi, French)",
+    "notes": "Effective for multilingual dataset preprocessing."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "COT-001",
+    "task": "multi_step_reasoning",
+    "technique": "chain-of-thought",
+    "prompt": "Answer the following question by thinking step by step.\n\nQuestion: {input_text}\n\nLet's think step by step:\nStep 1:",
+    "expected_output_format": "Step-by-step reasoning followed by final answer",
+    "notes": "Improves accuracy on complex logical and math problems significantly."
+  },
+  {
+    "id": "COT-002",
+    "task": "sentiment_with_reasoning",
+    "technique": "chain-of-thought",
+    "prompt": "Analyze the sentiment of the following review by reasoning through it step by step, then give a final label.\n\nReview: \"{input_text}\"\n\nReasoning:\n1. What positive aspects are mentioned?\n2. What negative aspects are mentioned?\n3. What is the overall tone?\n\nBased on the above reasoning, the sentiment is:",
+    "expected_output_format": "Reasoning steps + Final label (Positive/Negative/Neutral)",
+    "notes": "Explainable sentiment analysis — useful for auditing AI decisions."
+  },
+  {
+    "id": "COT-003",
+    "task": "fact_verification",
+    "technique": "chain-of-thought",
+    "prompt": "Verify whether the following claim is True, False, or Uncertain by reasoning through it.\n\nClaim: \"{input_text}\"\n\nReasoning:\n1. What does the claim state?\n2. What is generally known about this topic?\n3. Is there any contradiction or uncertainty?\n\nVerdict:",
+    "expected_output_format": "Reasoning + True | False | Uncertain",
+    "notes": "Chain-of-thought reduces hallucination in fact-checking tasks."
+  },
+  {
+    "id": "COT-004",
+    "task": "root_cause_analysis",
+    "technique": "chain-of-thought",
+    "prompt": "A customer has reported the following issue. Analyze it step by step to identify the root cause and suggest a resolution.\n\nIssue: \"{input_text}\"\n\nAnalysis:\n1. What is the customer experiencing?\n2. What are the likely causes?\n3. Which cause is most probable?\n4. What is the recommended resolution?\n\nRoot Cause:\nResolution:",
+    "expected_output_format": "Structured analysis with root cause and resolution",
+    "notes": "Useful for automated customer support escalation systems."
+  },
+  {
+    "id": "COT-005",
+    "task": "content_moderation",
+    "technique": "chain-of-thought",
+    "prompt": "Review the following user-generated content and decide if it should be flagged.\n\nContent: \"{input_text}\"\n\nEvaluation:\n1. Does this content contain hate speech or offensive language?\n2. Does it promote harmful behavior?\n3. Is it inappropriate for a general audience?\n\nDecision (Flag / Allow):\nReason:",
+    "expected_output_format": "Decision: Flag | Allow + Reason",
+    "notes": "CoT moderation is more reliable than single-step classification for edge cases."
+  }
+]
